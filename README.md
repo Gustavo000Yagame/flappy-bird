@@ -9,9 +9,7 @@
 
 ##  Preview
 
-<p align="center">
-  <img src="assets/bg.webp" width="250"/>
-</p>
+<img width="220" height="164" alt="flappy-bird-flap" src="https://github.com/user-attachments/assets/cffa3f75-c569-429e-a6f8-f426f109d326" />
 
 ---
 
