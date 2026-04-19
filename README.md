@@ -1,0 +1,77 @@
+🐦 Flappy Bird - JavaScript
+
+
+📸 Preview
+<p align="center"> <img src="assets/bg.webp" width="250"/> </p>
+🎮 Sobre o projeto
+
+Este projeto é uma recriação do clássico Flappy Bird, desenvolvido utilizando apenas HTML, CSS e JavaScript puro, com foco em lógica de jogo, física e manipulação do DOM.
+
+O jogador controla um pássaro que deve atravessar obstáculos (canos) sem colidir.
+
+🚀 Funcionalidades
+
+✔ Sistema de gravidade e física realista
+✔ Pulo com controle suave
+✔ Geração dinâmica de obstáculos
+✔ Sistema de pontuação
+✔ Detecção de colisão precisa
+✔ Tela de Game Over
+✔ Botão de reinício
+✔ Efeitos sonoros (pulo, ponto e morte)
+✔ Rotação do pássaro baseada na velocidade
+
+🛠️ Tecnologias
+HTML5
+CSS3
+JavaScript (Vanilla)
+📂 Estrutura do projeto
+flappy-bird/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    ├── bg.webp
+    ├── bird.png
+    ├── ground.png
+    ├── sfx_wing.mp3
+    ├── sfx_point.mp3
+    └── sfx_die.mp3
+▶️ Como executar
+# 1. Baixe ou clone o projeto
+# 2. Extraia os arquivos
+# 3. Abra no navegador
+
+index.html
+🎮 Controles
+Ação	Controle
+Pular	Clique do mouse
+Pular	Tecla Espaço
+Pular	Toque na tela
+🧠 Mecânica do jogo
+O pássaro sofre ação constante da gravidade
+O jogador controla o movimento com impulsos (pulo)
+Os canos são gerados com alturas aleatórias
+A pontuação aumenta ao passar pelos obstáculos
+O jogo termina ao colidir com canos ou chão
+📈 Melhorias futuras
+ Animação do pássaro (asas)
+ Chão em movimento
+ Sistema de recorde (localStorage)
+ Dificuldade progressiva
+ Música de fundo
+ Menu inicial mais completo
+👨‍💻 Autor
+
+Gustavo
+Estudante de Desenvolvimento de Sistemas - SENAI
+
+📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais.
+
+⭐ Se curtir o projeto
+
+Deixa uma estrela no repositório ⭐
+Isso ajuda muito!
