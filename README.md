@@ -8,7 +8,7 @@
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="assets/bg.webp" width="250"/>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎮 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto é uma recriação do clássico **Flappy Bird**, desenvolvido utilizando apenas **HTML, CSS e JavaScript puro**, com foco em lógica de jogo, física e manipulação do DOM.
 
@@ -24,8 +24,7 @@ O jogador controla um pássaro que deve atravessar obstáculos (canos) sem colid
 
 ---
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/607119a9-48cf-4b43-aba6-16705ad8ae8c" />
- Funcionalidades
+## Funcionalidades
 
 * ✔ Sistema de gravidade e física realista
 * ✔ Pulo com controle suave
@@ -78,7 +77,7 @@ index.html
 
 ---
 
-## 🎮 Controles
+##  Controles
 
 * Clique do mouse → pular
 * Tecla espaço → pular
@@ -86,7 +85,7 @@ index.html
 
 ---
 
-## 🧠 Mecânica do jogo
+## Mecânica do jogo
 
 * O pássaro sofre ação constante da gravidade
 * O jogador controla o movimento com impulsos (pulo)
