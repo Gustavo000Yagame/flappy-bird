@@ -2,7 +2,7 @@
 
 # 🐦 Flappy Bird - JavaScript
 
-<img width="220" height="164" alt="flappy-bird-flap" src="https://github.com/user-attachments/assets/cffa3f75-c569-429e-a6f8-f426f109d326" />
+<img width="260" height="260" alt="7bz9x9" src="https://github.com/user-attachments/assets/5a08fcee-2227-4b97-b108-26b88c76dc59" />
 
 
 ---
