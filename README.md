@@ -2,9 +2,7 @@
 
 # 🐦 Flappy Bird - JavaScript
 
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
-![Frontend](https://img.shields.io/badge/HTML-CSS-blue)
+<img width="203" height="248" alt="images" src="https://github.com/user-attachments/assets/09013acb-12d2-45a3-bf4d-540d4d6ecedb" />
 
 ---
 
